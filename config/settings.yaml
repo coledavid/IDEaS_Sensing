@@ -1,0 +1,6 @@
+camera:
+  resolution: [640, 480]
+  fps: 60
+
+yolo:
+  model_path: inference/models/yolov8m.pt
